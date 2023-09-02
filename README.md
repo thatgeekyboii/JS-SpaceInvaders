@@ -1,2 +1,2 @@
 # JS-SpaceInvaders
-SpaceInvaders
+SpaceInvaders - HTML Canvas,Vanilla Javascript
